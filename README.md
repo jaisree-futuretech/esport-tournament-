@@ -2,9 +2,11 @@
 
 A modern, full-stack Esports Tournament Management System supporting multi-game competitions, single-elimination tournament brackets, team registration, payment simulation, leaderboards, and administrative controls.
 
+Live demo - https://etsjava.netlify.app/
+
 ---
 
-## 🚀 Quick Start (VS Code)
+##  Quick Start (VS Code)
 
 ### Prerequisites
 - **Node.js**: v18.x or higher
@@ -31,7 +33,7 @@ A modern, full-stack Esports Tournament Management System supporting multi-game 
 
 ---
 
-## 📜 Available NPM Scripts
+##  Available NPM Scripts
 
 - `npm run dev` - Starts the full-stack Express + Vite development server on port 3000.
 - `npm run build` - Builds the React frontend and bundles the Express server into `dist/`.
@@ -40,7 +42,7 @@ A modern, full-stack Esports Tournament Management System supporting multi-game 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── database/               # MySQL Database Schemas & Seed Data
